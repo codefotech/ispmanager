@@ -1,0 +1,17 @@
+.min-width0{
+	min-width: 0 !important;
+}
+.action-th{
+	max-width: 105px !important;
+	text-align:center;
+}
+.min-wid-500{
+	max-width: 500px !important;
+}
+.text-align-right{
+	text-align: right !important;
+}
+.edit-form{
+	float: right;
+	margin-right: 2%;
+}
